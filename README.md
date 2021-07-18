@@ -1,3 +1,3 @@
 # machine-learning-web-app
 
-i have buit a machine learning web app which will help us to know which of the classifing algorithim works good on the datasets by showing accuracy of the selected model on the dataset.
+Built Machine learning web app with Streamlit library, which allows the users to choose what classification algorithms they want to use and let them interactively set the hyper parameters values. with the help of this app we can cheak which classification algorithim gives best accuracy on ths choosen dataset.
